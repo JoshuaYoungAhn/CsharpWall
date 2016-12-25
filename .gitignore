@@ -1,0 +1,9 @@
+properties 
+appsettings.json
+.properties
+.appsettings.json
+bin
+obj
+/obj
+/bin
+.bin
